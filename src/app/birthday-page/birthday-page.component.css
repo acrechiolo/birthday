@@ -1,0 +1,39 @@
+main {
+    height: 100vh;
+}
+main, .birthday-wish-container, .fact-container, .with-love {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+    font-family: 'Amatic SC', cursive;
+
+}
+.happy-birthday {
+    font-weight: 700;
+    font-size: 40px;
+    font-family: 'Amatic SC', cursive;
+
+}
+.love-you{
+    font-size: 30px;
+    font-family: 'Amatic SC', cursive;
+
+}
+button {
+    margin-top: 5px;
+    font-family: 'Amatic SC', cursive;
+
+}
+.fact {
+    margin-top: 5px;
+    font-family: 'Amatic SC', cursive;
+
+}
+
+.with-love {
+    margin-top: 40px;
+    font-family: 'Amatic SC', cursive;
+
+}
